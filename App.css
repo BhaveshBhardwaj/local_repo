@@ -1,7 +1,4 @@
 /* src/App.css */
 .App {
-  text-align: center; /* This was default, can be removed if components handle their own text-align */
+  text-align: center; 
 }
-
-/* You can remove default create-react-app styles if you want, like .App-logo, .App-header, .App-link */
-/* For instance, we are using our own .app-header now. */
