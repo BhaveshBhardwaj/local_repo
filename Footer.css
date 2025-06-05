@@ -1,0 +1,11 @@
+/* src/components/Footer.css */
+.app-footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  /* position: fixed; /* Uncomment if you want a sticky footer */
+  /* left: 0; */
+  /* bottom: 0; */
+  /* width: 100%; */
+}

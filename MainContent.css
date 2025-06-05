@@ -1,0 +1,43 @@
+/* src/components/MainContent.css */
+.main-content {
+  padding: 20px;
+  background-color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.main-content section {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.main-content section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.main-content h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.main-content button {
+  background-color: #61dafb; /* React blue */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.main-content button:hover {
+  background-color: #21a1f1;
+}
